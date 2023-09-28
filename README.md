@@ -25,4 +25,4 @@
 
 
 ## Dept of Design
-- [Home of the best Designers](https://www.ewu.edu/cstem/design/)
+[Home of the best designers](https://www.ewu.edu/cstem/design/)
