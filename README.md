@@ -22,3 +22,7 @@
 ## My Links
 - [My github](https://github.com/jsanch93)
 - [My Codepen](https://codepen.io/sanchinator)
+
+
+## Dept of Design
+- [Home of the best Designers](https://www.ewu.edu/cstem/design/)
