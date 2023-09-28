@@ -1,4 +1,4 @@
-![HAHA gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVzOGZlMjB2aHdqdTJ6czR5cHo5ZTA2ZHBpOWJlaGJ0OXl3eXYzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXaoNyBCDHQkZc8N5m/giphy.gif)
+![HAHA gif](NLTPD.webp)
 # Joey Sanchirico
 
 >"Sometimes I'll start a sentence, and I don't even know where it's going. I just hope I find it along the way."
