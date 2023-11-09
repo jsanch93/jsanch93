@@ -10,11 +10,11 @@
 * Web Design
 * UI/UX
 * Photography
-* Prior aircraft mechanic
+* Prior Aircraft Mechanic
 * Petting dogs
 
 ## My Superpower
-- I can get anxious doing any task
+- I can get any dog to be my best friend in 5 minutes
 
 
 
