@@ -4,7 +4,7 @@
 >"Sometimes I'll start a sentence, and I don't even know where it's going. I just hope I find it along the way."
 
 ## Major   
-**BDes** _Visual Communication Design_
+**BDes** _Visual Communication Design 2025_
 
 ## Skills
 * Web Design
@@ -24,5 +24,4 @@
 - [My Codepen](https://codepen.io/sanchinator)
 
 
-## Dept of Design
-[Home of the best designers](https://www.ewu.edu/cstem/design/)
+
