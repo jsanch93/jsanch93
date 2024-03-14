@@ -1,3 +1,5 @@
+<img src="https://avatars.githubusercontent.com/u/145707725?v=4" />
+
 # Joey Sanchirico
 
 ## Oh, hello.
@@ -17,6 +19,8 @@ I am a web developer and designer with a passion for creating beautiful, functio
 ## Soc Media
 * [My website](https://joeysanchirico.netlify.app/)
 * [LinkedIn](https://www.linkedin.com/in/joseph-sanchirico-606aba2a1/)
+
+
 
  
 
