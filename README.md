@@ -1,5 +1,3 @@
-![JOEY. ME.](https://avatars.githubusercontent.com/u/145707725?v=4)
-
 ![JOEY. ME.](me.jpg)
 
 # Joey Sanchirico
