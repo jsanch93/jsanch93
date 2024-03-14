@@ -2,6 +2,8 @@
 
 ## Oh, hello.
 
+## Bio  
+I am a web developer and designer with a passion for creating beautiful, functional websites. I am a student at Eastern Washington University majoring in Visual Communication Design and have certificats in Web Development/Design and UI/UX design. I am currently working as a web editor at [Eastern Washington University](inside.ewu.edu).
 
 ## Skills
 - HTML
@@ -11,6 +13,10 @@
 - Adobe Creative Suite
 - WordPress
 - Petting dogs
+
+## Soc Media
+* [My website](https://joeysanchirico.netlify.app/)
+* [LinkedIn](https://www.linkedin.com/in/joseph-sanchirico-606aba2a1/)
 
  
 
