@@ -1,4 +1,4 @@
-![JOEY. ME.](me.jpg)
+![Nude Egg](egg.webp)
 
 # Joey Sanchirico
 
@@ -15,6 +15,7 @@ I am a web developer and designer with a passion for creating beautiful, functio
 - Adobe Creative Suite
 - WordPress
 - Petting dogs
+- Quoting I Think You Should Leave and The Office
 
 ## Soc Media
 * [My website](https://joeysanchirico.netlify.app/)
