@@ -1,13 +1,9 @@
-![Nude Egg](egg.webp)
+# Hello there, I'm Joey! 👋
 
-# Joey Sanchirico
+Immersed in the vibrant academic life of Eastern Washington University, our protagonist is not just a student, but a passionate explorer of Visual Communication Design. With a keen eye for aesthetics and a knack for coding, he is honing his skills in the intriguing world of Front End Development and UI/UX design. His journey doesn't stop at the classroom door - he's applying his knowledge in real-world scenarios as a Web Editor at the very university he studies at. His current base is the lively city of Spokane, WA, where he's making his mark one design at a time.
 
-## Oh, hello.
+## 🛠 Skills
 
-## Bio  
-I am a web developer and designer with a passion for creating beautiful, functional websites. I am a student at Eastern Washington University majoring in Visual Communication Design and have certificates in Web Development/Design and UI/UX design. I am currently working as a web editor at Eastern Washington University.
-
-## Skills
 - HTML
 - CSS
 - JavaScript
@@ -17,13 +13,7 @@ I am a web developer and designer with a passion for creating beautiful, functio
 - Petting dogs
 - Quoting I Think You Should Leave and The Office
 
-## Soc Media
-* [My website](https://joeysanchirico.netlify.app/)
-* [LinkedIn](https://www.linkedin.com/in/joseph-sanchirico-606aba2a1/)
+## 🔗 Links
 
-
-
- 
-
-
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](joeysanchirico.netlify.app)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-sanchirico-606aba2a1/)
